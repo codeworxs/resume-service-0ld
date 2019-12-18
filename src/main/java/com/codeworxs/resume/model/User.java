@@ -58,4 +58,5 @@ public class User {
     @Column(name = "user_type_id")
     private Integer userTypeId;
 
+
 }
